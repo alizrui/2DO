@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=java.lang.String\ palMasFrecuente(librerias.estructurasDeDatos.modelos.ListaConPI)
+comment0.text=\n\ Devuelve\ aquella\ palabra\ (String)\ de\ la\ lista\ l\ que\ aparece\ \ \n\ con\ mayor\ frecuencia\ en\ una\ coleccion\ de\ libros.\ Si\ ninguna\ palabra\ de\ \n\ l\ esta\ en\ la\ coleccion,\ o\ l\ esta\ vacia,\ el\ metodo\ debe\ devolver\ un\ String\n\ vacio\ (i.e.\ "").\n
+comment1.params=
+comment1.target=IndexadorEx()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
